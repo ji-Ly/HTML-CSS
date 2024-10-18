@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+h1{
+    background-color: white;
+}
+
+/* #p1{
+    color:  palegoldenrod;
+} */
+
+#p2{
+  color: pink;
+}
+
+/* #p3{
+    color: aquamarine;
+} */
+#p4{
+    color: blueviolet;
+}
+
+.odd{
+    color: blue;
+}
+
+.oven{
+    color: aqua
+}

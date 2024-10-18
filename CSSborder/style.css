@@ -1,0 +1,43 @@
+#h1{
+    border-style: none;
+}
+#h2{
+    border-style: dashed;
+}
+#h3{
+    border-style: dotted;
+}
+#h4{
+    border-style: double;
+}
+
+#h5{
+    border-style: groove;
+}
+
+#h6{
+    border-style: ridge;
+}
+
+#h7{
+    border-style: inset;
+}
+
+#h8{
+    border-style: outset;
+}
+
+#h9{
+    border-style: solid;
+    border-color: blueviolet;
+    border-width: 5px;
+    border-radius: 20px;
+}
+p{
+    border-bottom: 5px solid red;
+    border-top: 10px solid pink;
+    border-left: 5px dotted yellow ;
+    border-right: 1px dotted green;
+
+    border-radius: 10px;
+}
